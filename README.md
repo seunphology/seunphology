@@ -17,5 +17,5 @@ I'm a Software Engineer, Geoscientist and a Science communicator. I'm passionate
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=seunphology i&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=seunphology&show_icons=true&include_all_commits=true&hide_border=true" alt="Seun's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunphology&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
 | ------------- | ------------- |
